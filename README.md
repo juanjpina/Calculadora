@@ -1,2 +1,2 @@
-# Calculadora
+# calculatrice infinie
 caluladora infinita
